@@ -3,5 +3,5 @@ __pycache__/
 *.py[cod]
 
 # Database / Data Persistence files
-user.json
+users.json
 bill_receipt.txt
